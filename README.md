@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi 👋, I'm Laura Marina
 
 
-#### 👾 About Me
+#### 👩🏻‍🦱 About me:
 - 👋 &nbsp;I'm a software engineer with a focus on React. 
 - 📍 &nbsp;Living in Milan... for now!
 - 🏳️‍🌈 &nbsp;She/Her
