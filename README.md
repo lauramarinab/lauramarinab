@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ### Hi 👋, I'm Laura Marina
 
-<br/>
 
 #### 👾 About Me
 - 👋 &nbsp;I'm a software engineer with a focus on React. 
