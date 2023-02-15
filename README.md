@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 #### 👩🏻‍🦱 About me:
-- 👋 &nbsp;I'm a software engineer with a focus on React. 
+- 👋 &nbsp;I'm a software engineer with a focus on React and TypeScript. 
 - 📍 &nbsp;Living in Milan... for now!
 - 🏳️‍🌈 &nbsp;She/Her
 
