@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauramarinab&hide=TSQL&layout=compact&title_color=24292f)](https://github.com/lauramarinab/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauramarinab&hide=TSQL&layout=compact&title_color=24292f&count_private=true)](https://github.com/lauramarinab/github-readme-stats)
 
 #### 👩🏻‍🦱 About me:
 - 👋 &nbsp;I'm a software engineer with a focus on React and TypeScript. 
