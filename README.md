@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauramarinab&layout=compact&theme=default&hide=TSQL)](https://github.com/anuraghazra/github-readme-stats)
-
-
 #### 👩🏻‍🦱 About me:
 - 👋 &nbsp;I'm a software engineer with a focus on React and TypeScript. 
 - 📍 &nbsp;Living in Milan... for now!
