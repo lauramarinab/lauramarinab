@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauramarinab&hide=TSQL&layout=compact&title_color=24292f&count_private=true)](https://github.com/lauramarinab/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauramarinab&layout=compact&theme=default&hide=TSQL)](https://github.com/anuraghazra/github-readme-stats)
 
 
